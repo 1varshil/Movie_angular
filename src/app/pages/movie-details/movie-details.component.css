@@ -1,0 +1,36 @@
+.movieDet img{
+    width:100%;
+    height:auto;
+    
+}
+
+h3{
+    font-weight: bold;
+}
+
+
+a{
+    background-color: #E50914;
+    color:#ffffff;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: darkred;
+    color:bisque;
+    border:2px solid #ffffff;
+}
+
+.cast-img img{
+    width:100%;
+    height:auto;
+}
+
+.cast-Det h2{
+    color:white;
+}
+
+.cast-Det P {
+    color:white;
+    
+}
